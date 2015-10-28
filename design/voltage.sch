@@ -32,15 +32,14 @@ LIBS:Allegro_ACS759
 LIBS:acs712
 LIBS:txs0104e
 LIBS:less
-LIBS:RGB-LED-PLL6
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 12 20
 Title "PIVI"
-Date "Mon 27 Jul 2015"
-Rev "2.0"
+Date "mié 28 oct 2015"
+Rev "2.2"
 Comp "Copyright (C) LESS industries S.A. 2014,2015"
 Comment1 "Share alike attribution non-commercial 4.0"
 Comment2 "License: Creative Commons "

@@ -32,15 +32,14 @@ LIBS:Allegro_ACS759
 LIBS:acs712
 LIBS:txs0104e
 LIBS:less
-LIBS:RGB-LED-PLL6
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 20
 Title "PIVI"
-Date "Mon 27 Jul 2015"
-Rev "2.0"
+Date "mié 28 oct 2015"
+Rev "2.2"
 Comp "Copyright (C) LESS industries S.A. 2014,2015"
 Comment1 "Share alike attribution non-commercial 4.0"
 Comment2 "License: Creative Commons "
@@ -660,7 +659,7 @@ Wire Wire Line
 Wire Wire Line
 	5680 5415 5680 5495
 Wire Wire Line
-	5685 5095 6030 5095
+	5680 5095 6030 5095
 Wire Notes Line
 	5330 4480 6075 4480
 Wire Notes Line
@@ -783,4 +782,5 @@ Wire Notes Line
 	6650 1050 6650 2600
 Wire Notes Line
 	4700 2600 4700 1050
+Connection ~ 5680 5095
 $EndSCHEMATC
